@@ -1,2 +1,2 @@
 print("Hello Git!!")
-print("My name is Hyejeong Park.: :)")
+print("My name is Hyejeong Park. :)")
